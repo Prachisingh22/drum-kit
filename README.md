@@ -1,0 +1,1 @@
+This project is all about different sounds by drum in a form of kit.
